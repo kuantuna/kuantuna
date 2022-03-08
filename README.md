@@ -1,6 +1,6 @@
 ### Hi there I'm Tuna👋
 
-<p align="center">
+<p> <!--align="center"-->
   <a href="http://twitter.com/kuantuna">
     <img src="https://img.shields.io/twitter/follow/kuantuna?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
