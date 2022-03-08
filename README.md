@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuantuna&layout=compact)](https://github.com/kuantuna/github-readme-stats)
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=kuantuna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p>
+
+
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=kuantuna&layout=compact&theme=dark&count_private=true&card_width=1000&hide_border=true" /></p>
 
 <!--
 **kuantuna/kuantuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
