@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm Tuna👋
+
+<p align="center">
+  <a href="http://twitter.com/kuantuna">
+    <img src="https://img.shields.io/twitter/follow/kuantuna?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/kuantuna?tab=followers">
+    <img src="https://img.shields.io/github/followers/kuantuna?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=kuantuna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p>
 
