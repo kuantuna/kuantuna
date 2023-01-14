@@ -10,9 +10,6 @@
   <a><img src="https://komarev.com/ghpvc/?username=kuantuna&amp;style=for-the-badge" alt="Tuna&#39;s Profile Views"></a>
 </p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuantuna&langs_count=10&layout=compact&theme=dark&card_width=1000&count_private=true" /></p>
-
-
 <!--
 **kuantuna/kuantuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
